@@ -6,5 +6,5 @@ Company "ABC" is an online company selling high end household products. The comp
 
 I think that would be a very good example and practice to do exploratory data analysis and data manipulation in R using ggplot2 and plyr packages.
 
-# Reference
+### Acknowledgment
 The problem description and dataset is from one of my friends Junhua Zhao.
